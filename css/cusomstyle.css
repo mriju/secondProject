@@ -1,0 +1,72 @@
+
+.myHeaderPart{
+    background:#F0FFF0;
+}
+.myLogo{
+    width: 15%;
+}
+#headerBottom{
+    padding:50px 25px;
+}
+.headerask{
+    font-size: 16px;
+    line-height: 24px;
+    color: #FD511A;
+    margin-top: 5%;
+
+}
+.headertitle{
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 45px;
+    color:#000;
+}
+.titlenxt{
+    color: #21B573;
+}
+.mybtn{
+    background:#21B573;
+    color:#fff;
+    border-radius: 20px;
+}
+.allBookIcon .card-deck{
+    text-align: center;
+}
+.allBookIcon .card-deck img{
+   width: 20%;
+   margin: auto;
+}
+.allBookIcon .card-deck .card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: none;
+    box-shadow: 5px 5px 10px #f0f0f0;
+    border-radius: 10px;
+    padding: 10px;
+}
+.onlineCourse .card-deck .card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: none;
+    box-shadow: 5px 5px 10px #f0f0f0;
+    border-radius: 10px;
+    padding: 10px;
+}
+.onlineCourse .sicon{
+    margin-top: 13px;;
+}
+.footerArea{
+    background: #282531;
+    color: #fff;
+}
+.footerList{
+    list-style: none;
+}
+.listTitle{
+    font-size: 19px;;
+}
+.copyright{
+    text-align: center;
+    color: #fff;
+    padding-bottom: 10px;
+}
